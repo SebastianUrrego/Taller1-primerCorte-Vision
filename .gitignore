@@ -1,0 +1,7 @@
+Debug/
+build/
+CMakeLists.txt.user
+*.exe
+*.o
+*.obj
+*.log
